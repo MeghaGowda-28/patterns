@@ -1,0 +1,9 @@
+class Demo
+ 
+{
+	public static void main(String[] args) 
+	{
+		float p=3_4.12f;
+		System.out.println(p);
+	}
+}
